@@ -1,0 +1,25 @@
+{
+  "name": "nebula-essentials",
+  "description": "The complete collection of essential web components for building single-page applications.",
+  "license": "ISC",
+  "authors": [
+    "Chris Beckett <chrisb@arsnebula.com>"
+  ],
+  "homepage": "https://github.com/arsnebula/nebula-essentials#README",
+  "main": "nebula-essentials.html",
+  "keywords": [
+    "web-components",
+    "polymer",
+    "element-collection"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test"
+  ],
+  "dependencies": {
+    "nebula-ui-essentials": "arsnebula/nebula-ui-essentials#*",
+    "nebula-app-essentials": "arsnebula/nebula-app-essentials#*"
+  }
+}
