@@ -1,6 +1,6 @@
 {
   "name": "nebula-essentials",
-  "description": "The complete collection of essential web components for building single-page applications.",
+  "description": "Essential web application components.",
   "license": "ISC",
   "authors": [
     "Chris Beckett <chrisb@arsnebula.com>"
@@ -19,7 +19,8 @@
     "test"
   ],
   "dependencies": {
-    "nebula-ui-essentials": "arsnebula/nebula-ui-essentials#*",
-    "nebula-app-essentials": "arsnebula/nebula-app-essentials#*"
+    "nebula-app-essentials": "arsnebula/nebula-app-essentials",
+    "nebula-ui-essentials": "arsnebula/nebula-ui-essentials",
+    "nebula-dialog-essentials": "arsnebula/nebula-dialog-essentials"
   }
 }

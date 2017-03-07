@@ -2,4 +2,4 @@
 
 # nebula-essentials
 
-The complete collection of essential web components for building single-page applications.
+Essential web application components.
