@@ -20,8 +20,8 @@
     "test"
   ],
   "dependencies": {
-    "nebula-app-essentials": "arsnebula/nebula-app-essentials#^2.0.0",
-    "nebula-ui-essentials": "arsnebula/nebula-ui-essentials#^2.0.0",
-    "nebula-dialog-essentials": "arsnebula/nebula-dialog-essentials#^2.0.0"
+    "nebula-app-essentials": "arsnebula/nebula-app-essentials",
+    "nebula-ui-essentials": "arsnebula/nebula-ui-essentials",
+    "nebula-dialog-essentials": "arsnebula/nebula-dialog-essentials"
   }
 }
